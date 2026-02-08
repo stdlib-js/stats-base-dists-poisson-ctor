@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-ctor@esm/index.mjs';
+import Poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-ctor@v0.2.3-esm/index.mjs';
 ```
 
 #### Poisson( \[lambda] )
@@ -287,7 +287,7 @@ y = poisson.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-ctor@esm/index.mjs';
+import Poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-ctor@v0.2.3-esm/index.mjs';
 
 var poisson = new Poisson( 2.0 );
 
